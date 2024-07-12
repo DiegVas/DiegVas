@@ -10,13 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegVas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegVas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f77a767-2855-427c-a41a-17e3e1dc85fc/dafyrhu-a6aa1248-6636-47a8-bfcb-cb9a77c191ac.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmNzdhNzY3LTI4NTUtNDI3Yy1hNDFhLTE3ZTNlMWRjODVmY1wvZGFmeXJodS1hNmFhMTI0OC02NjM2LTQ3YTgtYmZjYi1jYjlhNzdjMTkxYWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cuGhzYrLsocdget8mqfW2qCNeUDTfZZdfQ0BrKc_UjI"  />
 
 ###
@@ -39,6 +32,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DiegVas/DiegVas/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegVas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegVas&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
