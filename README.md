@@ -13,4 +13,7 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DieVasq) 
 
 
-![dread-suit-samus-aran](https://github.com/user-attachments/assets/56c0c94d-ab02-473f-9291-54de1f9bb1c4)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegVas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegVas&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
