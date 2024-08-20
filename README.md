@@ -12,4 +12,5 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DieVasq) 
 
-![Uploading dafyrhu-a6aa1248-6636-47a8-bfcb-cb9a77c191ac.gif…]()
+
+![dread-suit-samus-aran](https://github.com/user-attachments/assets/56c0c94d-ab02-473f-9291-54de1f9bb1c4)
