@@ -1,7 +1,5 @@
-<img align="right" height="200" src="https://media.tenor.com/PQChISm1MnEAAAAM/dread-suit-samus-aran.gif"  />
-
 # 💻 Tech Stack:
-
+<img align="right" height="200" src="https://media.tenor.com/PQChISm1MnEAAAAM/dread-suit-samus-aran.gif"  />
 <div align="left">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="12" />
