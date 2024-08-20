@@ -5,6 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=DiegVas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegVas&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegVas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img align="right" height="250" src="https://media.tenor.com/PQChISm1MnEAAAAM/dread-suit-samus-aran.gif"  />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DiegVas&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -12,5 +13,3 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DieVasq) 
 
-
-<img align="right" height="250" src="https://media.tenor.com/PQChISm1MnEAAAAM/dread-suit-samus-aran.gif"  />
