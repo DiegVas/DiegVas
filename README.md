@@ -23,6 +23,9 @@
 
 <img src="https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white&style=for-the-badge" height="40" alt="fortran logo" />
 
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+
+
 </div>
 
 # 📊 GitHub Stats:
